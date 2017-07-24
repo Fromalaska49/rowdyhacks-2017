@@ -55,7 +55,7 @@
 										<h3>
 											Who can attend?
 										</h3>
-										Any university student, 18 or older.
+										Any student enrolled at UTSA, 18 or older.
 									</div>
 									<div class="faq-item">
 										<h3>

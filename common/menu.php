@@ -24,7 +24,23 @@
 						Temporarily disabled until navbar-collapse issue is resolved
 						<li><a href=".">Home</a></li>
 						-->
-						<li><a href="register.php">Register</a></li>
+						
+						<script type="text/javascript">
+							$(document).ready(function(){
+								var opacity = 1;
+								var registration_pulse = window.setInterval(function(){
+									opacity = Math.abs(opacity - 1);
+									if(opacity){
+										$("#registration_link_text_thing_stuffz_why_are_you_snooping_through_the_page_source").fadeTo(500, 0.5, "swing");
+									}
+									else{
+										$("#registration_link_text_thing_stuffz_why_are_you_snooping_through_the_page_source").fadeTo(500, 1.0, "swing");
+									}
+								},500);
+							});
+						</script>
+						
+						<li><a class="typeform-share link" href="https://acm-utsa.typeform.com/to/pRCOFi" data-mode="popup" style="text-decoration:none;" target="_blank" ><div id="registration_link_text_thing_stuffz_why_are_you_snooping_through_the_page_source" style="transition:none;">Register</div></a> <script> (function() { var qs, js, q, s, d = document, gi = d.getElementById, ce = d.createElement, gt = d.getElementsByTagName, id = "typef_orm_share", b = "https://s3-eu-west-1.amazonaws.com/share.typeform.com/"; if (!gi.call(d, id)) { js = ce.call(d, "script"); js.id = id; js.src = b + "share.js"; q = gt.call(d, "script")[0]; q.parentNode.insertBefore(js, q) } })() </script></li>
 						<li><a href="schedule.php">Schedule</a></li>
 						<li><a href="sponsors.php">Sponsors</a></li>
 						<li><a href="faq.php">FAQ</a></li>

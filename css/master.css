@@ -78,9 +78,13 @@ body {
 	float: left;
 }
 
+
 @media (max-width: 833px) {
 	.navbar-header>h1 {
-		display: none;
+		font-size: 22px;
+		position:relative;
+		top:-8px;
+		left:10px;
 	}
 }
 

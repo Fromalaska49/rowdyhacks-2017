@@ -58,39 +58,27 @@
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												10:00
+												11:00
 											</div>
 											Check In Starts
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												11:00
+												12:30
 											</div>
 											Opening Ceremony
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												12:00
+												1:00
 											</div>
 											Hacking Begins
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												1:00
-											</div>
-											Lunch
-										</li>
-										<li class="schedule-item">
-											<div class="schedule-time">
-												6:00
+												5:00
 											</div>
 											Dinner
-										</li>
-										<li class="schedule-item">
-											<div class="schedule-time">
-												9:00
-											</div>
-											Cup Stacking
 										</li>
 										<li class="schedule-item">
 											<h3>
@@ -105,31 +93,31 @@
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												Breakfast Time
+												8:00
 											</div>
 											Breakfast
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												11:00
+												11:30
 											</div>
 											Devpost
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												12:00
+												12:30
 											</div>
 											Lunch
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												12:30
+												1:00
 											</div>
 											Exhibit
 										</li>
 										<li class="schedule-item">
 											<div class="schedule-time">
-												2:00
+												2:30
 											</div>
 											Demos
 										</li>
